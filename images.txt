@@ -1,1 +1,1 @@
-edwardelric233/ragflow:oc9
+infiniflow/ragflow:v0.13.0
