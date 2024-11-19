@@ -1,1 +1,2 @@
 infiniflow/ragflow:v0.10.0
+mysql:5.7.18
