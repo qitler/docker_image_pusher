@@ -1,2 +1,1 @@
-infiniflow/ragflow:v0.10.0
-mysql:5.7.18
+pgvector/pgvector:0.7.0-pg15
